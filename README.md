@@ -23,16 +23,11 @@ The project simulates a competition website where users can register with their 
 ---
 
 ## 📂 Project Structure
-competition-site/
-│
-├── inc/                # PHP includes (DB connection, form handling, queries)
-|
-├── parts/              # Header and footer templates
-|
-├── js/                 # JavaScript files (e.g., countdown)
-|
-├── index.php           # Main entry point
-|
-├── 404.html            # Custom error page
-|
-└── README.md           # Project documentation
+#competition-site/
+#│
+#├── inc/                # PHP includes (DB connection, form handling, queries)
+#├── parts/              # Header and footer templates
+#├── js/                 # JavaScript files (e.g., countdown)
+#├── index.php           # Main entry point
+#├── 404.html            # Custom error page
+#└── README.md           # Project documentation
